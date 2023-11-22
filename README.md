@@ -2,7 +2,7 @@
 
 To measure an individual term, we have the tf-idf approach. “tf” means “term frequency”, measuring how frequently a term occurs while “idf” means “inverse document frequency” and measures how important a term is.
  
-To Run the code and understand the process of Term Frequency-Inverse Document Frequency for skimming shorter content. In short, we have some key elements that need to be considered which are tf-idf, threshold, and average score.
+To Run the code and understand the process of Term Frequency-Inverse Document Frequency for skimming shorter content, we have some key elements that need to be considered which are tf-idf, threshold, and average score.
 
 However, this project threshold is,
 
