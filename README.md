@@ -1,7 +1,11 @@
-# Term Frequency--Inverse-Document-Frequency--(TF-IDF)
+# Term Frequency-Inverse Document Frequency-(TF-IDF)
 
 To measure an individual term, we have the tf-idf approach. “tf” means “term frequency”, measuring how frequently a term occurs in a file while “idf” means “inverse document frequency” and measures how important a term is.
  
-In the given article. Sentences are scored as the sum of their TF-IDF word frequencies. Other than tf-idf, we add our own criteria to assist the operation of the summarization. These are, we assign each sentence a score between based on the percentage of per word appears in the file, assign a score based on how frequently the word is happened in the document. In short, we have some key elements that need to be considered those are tf-idf, threshold, average score.
+To Run the code and understand the process of Term Frequency-Inverse Document Frequency on skim shorter content. In short, we have some key elements that need to be considered which are tf-idf, threshold, and average score.
+
+However, this project threshold is,
+
+<img width="688" alt="Screenshot 2023-11-22 at 3 01 31 AM" src="https://github.com/BorHan-U/Term-Frequency--Inverse-Document-Frequency--TFIDF/assets/55747898/5646647c-a44c-4cbb-9d76-19cdf31ccff8">
 
 
